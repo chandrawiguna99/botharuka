@@ -1,0 +1,19 @@
+{
+    "ownerNumber": ["6285861009691@s.whatsapp.net","6281211423262@s.whatsapp.net"],
+    "ownerName": "Chandra",
+    "instagram" : "https://instagram.com/chndrwgnn_",
+    "botName": "Punya ",
+    "footer": "ChandraWiguna",
+    "sessionName": "session",
+    "pathimg": "./media/Haruka.jpg",
+    "BotKey": "V12",
+    "auto_welcomeMsg": true,
+    "auto_leaveMsg": true,    
+    "autobio": true,
+    "gamewaktu": 90,
+    "limitCount": 25,
+    "gcount": {
+        "prem": 1000,
+        "user": 15
+    }
+}
